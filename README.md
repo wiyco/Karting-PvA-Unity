@@ -12,6 +12,7 @@ This is a mod-project of Unity learning karting-template
 - Algorithm: PPO (proximal policy optimization)
 - Steps: 6.999064M
 - Penalty & Reward: Hit>Checkpoint>Speed>Brake
+![Demo](DL/TensorBoard.png)
 
 ## Preview
 ![Demo](DL/demo.gif)
